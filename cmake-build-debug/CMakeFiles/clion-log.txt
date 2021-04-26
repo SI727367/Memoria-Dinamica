@@ -1,4 +1,0 @@
-D:\Toolbox\apps\CLion\ch-0\203.7717.62\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\OneDrive - ITESO\- Semestre 3\Programacion memoria Dinamica\Programacion Memoria"
--- Configuring done
--- Generating done
--- Build files have been written to: D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug

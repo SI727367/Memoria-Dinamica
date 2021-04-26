@@ -1,3 +1,0 @@
-D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/CMakeFiles/Programacion_Memoria.dir
-D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
