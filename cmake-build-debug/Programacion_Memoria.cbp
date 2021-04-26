@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Programacion_Memoria"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Programacion_Memoria">
+				<Option output="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Programacion_Memoria.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 3"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 3/Examen Asincrono"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 10"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 15"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 16"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 17"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 18"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 19"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 20"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 21"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 22"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 23"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 27"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 Programacion_Memoria"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Programacion_Memoria/fast">
+				<Option output="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Programacion_Memoria.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 3"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 3/Examen Asincrono"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 10"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 15"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 16"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 17"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 18"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 19"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 20"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 21"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 22"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 23"/>
+					<Add directory="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 27"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 Programacion_Memoria/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 1/Asincrono.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 1/Examen1-1.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 1/Examen1-2.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 1/Profe.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 1/Test.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 1/tempCodeRunnerFile.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 2/Examen2-1.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 2/Examen2-2.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 2/ExamenParcial2Asincrono.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 2/Online.c/tempCodeRunnerFile.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 2/Online.c/yeet.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 2/listenc.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 2/mein (1).c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 2/mein.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 2/tempCodeRunnerFile.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 3/Examen Asincrono/contenedor.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 3/Examen Asincrono/contenedor.h">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 3/Examen Asincrono/mein.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 3/Randum.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 3/stack.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 3/stack.h">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Examen 3/tempCodeRunnerFile.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Programacion Memoria.cpp">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Santiago/Ejemplo.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Seguridad/GCD.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Seguridad/Random.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Seguridad/XGCD.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Seguridad/test.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 10/Tarea10.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 10/rectangle.h">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 11/Tarea-11.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 12/captura.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 12/impreshionante.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 12/multiplica.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 13/Tarea13-1.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 14/Tarea14-1.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 14/Tarea14-2.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 14/profe.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 15/S9_1_ejemplostac.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 15/S9_1_stack.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 15/Tarea15-2.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 15/stack.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 15/stack.h">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 15/tempCodeRunnerFile.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 16/ejemplo.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 16/queues.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 16/queues.h">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 17/lista.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 17/lista.h">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 17/pruebalista.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 18/TRE.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 18/lsta.h">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 18/profe.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 19/TDAEspecial.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 19/tdaespecialejemplo.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 19/tdaspecial.h">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 20/pruebas.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 20/set.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 20/set.h">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 21/project.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 21/set.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 21/set.h">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 22/Ejemplo.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 22/heap.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 22/heap.h">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 23/ejemplo.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 23/pq.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 23/pq.h">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 24/Tarea24.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 24/Tarea24_2.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 26/Dos.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 26/Uno.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 27/Cuatro.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 27/Cuatro_M.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 27/Tres.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 27/Uno.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 27/arbol.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 27/arbol.h">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 5/EjemploProfe.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 5/Tarea5-1.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 5/Tarea5-2.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 5/Tarea5-3.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 5/Tarea5-4.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 5/tempCodeRunnerFile.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 7/Profe.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 7/Tarea7-1.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 7/Tarea7-2.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 7/Tarea7-3.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 7/tempCodeRunnerFile.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 8/Tarea8-1.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 8/Tarea8-2.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 9/Tarea9-a.c/Tarea9-1.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea 9/Tarea9-a.c/Tarea9-2.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea2-1.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea2-2.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea3-1.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea3-2.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea3-3.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea4-1.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea4-2.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea4-3.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea4-4.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Tarea_1.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Test.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Test/Haber.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Test/Yeet.cpp">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/Variables.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/tempCodeRunnerFile.c">
+			<Option target="Programacion_Memoria"/>
+		</Unit>
+		<Unit filename="D:/OneDrive - ITESO/- Semestre 3/Programacion memoria Dinamica/Programacion Memoria/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
